@@ -1,12 +1,21 @@
 {
     "dialogues": [
         {
-            "Mahasiswa": "Apa Kabar Pak??????"
+            "Dosen": "Selamat datang di mata kuliah pola pikir komputasional. Pada matkul ini kalian akan belajar mengenai bagaimana metode menyelesaikan beberapa permasalahan dengan menerapkan ilmu komputer"
         },
-        
-            {
-              "END":"END"
-            }
+        {
+            "Dosen": "Algoritma adalah logika, metode dan tahapan “urutan” sistematis dan logis yang digunakan untuk memecahkan suatu permasalahan. Dalam perkembangannya, algoritma banyak dipakai di bidang komputer dan dunia IT"
+        },
+        {
+            "Dosen": "Algoritma dapat disajikan dalam dua bentuk yaitu dalam bentuk tulisan/bahasa dan dalam bentuk gambar. Penyajian algoritma dalam bentuk tulisan haruslah menggunakan bahasa yang dapat dimengerti manusia dalam menyajikan langkah-langkah algoritma. Penyajian algoritma dalam bentuk tulisan juga dapat dilakukan menggunakan pseudocode"
+        },
+        {
+            "Dosen": "Pseudocode berasal dari kata pseudo yang berarti “mirip atau menyerupai” dan code yang berarti “kode program”.. Sedangkan, penyajian algoritma dalam bentuk gambar sering disebut flow chart"
+        },
+        {
+            "Dosen":"Adapun ciri algoritma sebagai berikut:/n kau"
+        }
+           
     ]
 }
         
