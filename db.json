@@ -21,9 +21,7 @@
         {
             "Dosen": "Jenis-Jenis Algoritma:\n1.Divide and Conquer, Paradigma untuk membagi suatu permasalahan besar menjadi permasalahan-permasalahan yang lebih kecil.\n2.Dynamic programming, Paradigma pemrograman dinamik akan sesuai jika digunakan pada suatu masalah yang mengandung sub-struktur yang optimal, dan mengandung beberapa bagian permasalahan yang tumpang tindih."
         },
-        {
-            "Dosen":"3.Sistem Flowchart, merupakan diagram alir yang menggambarkan suatu sistem peralatan komputer yang digunakan dalam proses pengolahan data serta hubungan antar peralatan tersebut. Simbol pada flowchart ada lingkaran untuk state awal dan akhir, persegi panjang proses, jajar genjang untuk input / output dan belah ketupat untuk decision/kondisi.\n4.Pseudo code, merupakan metode yang cukup efisien untuk menggambarkan suatu algoritma . Pseudo Code dituliskan dengan menggunakan bahasa yang mudah dipahami agar alur logika yang digambarkan dapat dimengeti oleh orang awam sekalipun."
-        },
+       
         {
             "Dosen" :"Pembelajaran matkul pola pikir komputasional sudah selesai, kalian bisa menemui kakak kelas yang berada di halaman depan untuk melakukan battle sekaligus mengetes pengetahuan yang sudah kalian dapatkan tadi"
         },
