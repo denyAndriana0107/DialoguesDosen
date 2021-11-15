@@ -7,28 +7,16 @@
             "Dosen": "Algoritma adalah logika, metode dan tahapan “urutan” sistematis dan logis yang digunakan untuk memecahkan suatu permasalahan. Dalam perkembangannya, algoritma banyak dipakai di bidang komputer dan dunia IT"
         },
         {
-            "Dosen": "Algoritma dapat disajikan dalam dua bentuk yaitu dalam bentuk tulisan/bahasa dan dalam bentuk gambar. Penyajian algoritma dalam bentuk tulisan haruslah menggunakan bahasa yang dapat dimengerti manusia dalam menyajikan langkah-langkah algoritma. Penyajian algoritma dalam bentuk tulisan juga dapat dilakukan menggunakan pseudocode"
-        },
-        {
-            "Dosen": "Pseudocode berasal dari kata pseudo yang berarti “mirip atau menyerupai” dan code yang berarti “kode program”.. Sedangkan, penyajian algoritma dalam bentuk gambar sering disebut flow chart"
+            "Dosen": "Algoritma dapat disajikan dalam dua bentuk yaitu dalam bentuk tulisan/bahasa dan dalam bentuk gambar."
         },
         {
             "Dosen":"Adapun ciri algoritma sebagai berikut:\n1.Ada Input\n2.Ada proses\n3.Ada Output\n4.Memiliki Instruksi-Instruksi yang jelas dan tidak Ambigu\n5.Harus mempunyai Stoping Role"
         },
         {
-            "Dosen": "Berikut ini terdapat beberapa fungsi algoritma, terdiri atas:\n1.Menggunakan fungsi algoritma bisa digunakan untuk memecahkan program yang rumit.\n2.Menggunakan fungsi algoritma bisa menjadikan program yang besar menjadi program yang lebih sederhana.\n3.Fungsi algoritma bisa digunakan secara berulang atau lebih dari satu kali penggunaan..."
+            "Dosen": "Salah satu fungsi algoritma adalah agar bisa digunakan untuk memecahkan program yang rumit."
         },
         {
-            "Dosen": "4.Memudahkan dalam pembuatan program.\n5.Bisa mengatasi segala masalah dengan logika dan urut"
-        },
-        {
-            "Dosen": "Jenis-Jenis Algoritma:\n1.Divide and Conquer, Paradigma untuk membagi suatu permasalahan besar menjadi permasalahan-permasalahan yang lebih kecil.\n2.Dynamic programming, Paradigma pemrograman dinamik akan sesuai jika digunakan pada suatu masalah yang mengandung sub-struktur yang optimal, dan mengandung beberapa bagian permasalahan yang tumpang tindih..."
-        },
-        {
-            "Dosen": "3.Sistem Flowchart, merupakan diagram alir yang menggambarkan suatu sistem peralatan komputer yang digunakan dalam proses pengolahan data serta hubungan antar peralatan tersebut. Simbol pada flowchart ada lingkaran untuk state awal dan akhir, persegi panjang proses, jajar genjang untuk input / output dan belah ketupat untuk decision/kondisi..."
-        },
-        {
-            "Dosen": "4.Pseudo code, merupakan metode yang cukup efisien untuk menggambarkan suatu algoritma . Pseudo Code dituliskan dengan menggunakan bahasa yang mudah dipahami agar alur logika yang digambarkan dapat dimengeti oleh orang awam sekalipun."
+            "Dosen": "Jenis-Jenis Algoritma:\n1.Divide and Conquer\n2.Dynamic programming\n3. Sistem Flowchart\n4. Pseudo code"
         },
         {
             "Dosen" :"Pembelajaran matkul pola pikir komputasional sudah selesai, kalian bisa menemui kakak kelas yang berada di taman untuk melakukan battle sekaligus mengetes pengetahuan yang sudah kalian dapatkan tadi"
